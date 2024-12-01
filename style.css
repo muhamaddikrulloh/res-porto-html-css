@@ -16,7 +16,7 @@ body {
 /* HEADER */
 header {
     /* background: yellow; */
-    background: white;
+    background: black;
     width: 100%;
     height: 80px;
     position: fixed;
@@ -115,7 +115,6 @@ main::before {
     animation-delay: 1.2s;
     opacity: 0;
     transform: translateY(20px);
-    color: #00CBD4;
 }
 .name-text span {
     color: #00CBD4;
