@@ -115,9 +115,6 @@ main::before {
     animation-delay: 1.2s;
     opacity: 0;
     transform: translateY(20px);
-}
-
-.name-text span {
     color: #00CBD4;
 }
 
