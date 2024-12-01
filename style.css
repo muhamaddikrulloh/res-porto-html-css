@@ -117,6 +117,9 @@ main::before {
     transform: translateY(20px);
     color: #00CBD4;
 }
+.name-text span {
+    color: #00CBD4;
+}
 
 .role-text {
     color: #00CBD4;
